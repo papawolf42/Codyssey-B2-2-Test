@@ -9,7 +9,9 @@ Codyssey B2-2 미션 팀 협업 저장소입니다.
 4. [오픈소스 협업 및 코드 리뷰 문화](notes/04-open-source.md) - 작성자: 김건우
 
 ## 🛠️ 협업 및 복구 기록
-- [협업 규칙 가이드](docs/CONTRIBUTING.md)
+- [협업 규칙 가이드 (충돌 대응 규칙 포함)](docs/CONTRIBUTING.md)
+- [작업 Issue 10건 전수 대장](docs/issues.md)
+- [모의 PR 10건 본문 및 리뷰 상호작용 대장](docs/pull-requests.md)
 - [충돌 2회 해결 종합 보고서](docs/conflict-resolution.md)
 - [Git 4대 트러블슈팅 종합 실습 기록부](docs/troubleshooting-log.md)
 - [최종 제출 인덱스 표](SUBMISSION.md)
